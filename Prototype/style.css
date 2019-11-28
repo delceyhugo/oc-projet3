@@ -46,7 +46,7 @@ header img{
 /* Contents */
 
 .shadow-p{
-  box-shadow: 0px 0px 20px 1px rgba(19, 19, 19, 0.8);
+  box-shadow: 0px 0px 20px 1px rgba(19, 19, 19, 0.1);
   padding: 5px 10px 15px 10px;
   margin-top: 80px;
   margin-bottom: 50px;
@@ -60,6 +60,10 @@ header img{
   background-color: #9ab5dd;
   color: #191919;
 }
+.timeline-Widget{
+  margin: auto !important;
+}
+
 
 
 /* Footer */
